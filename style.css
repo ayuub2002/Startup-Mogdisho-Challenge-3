@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.header h3{
+
+    color: #86c7c3;
+    font-size: 24px;
+
+}
+
+.header .p1{
+
+    color: #f6ea12;
+    font-size: 21px;
+
+}
+
+.conteiner{
+background-color: white;
+width: 666px;
+height: 500px;
+padding: 50px 50px 50px 50px;
+
+}
+.header {
+
+   background-color: whitesmoke;
+   padding: 30px 10px 10px 20px;
+   
+
+}
+
+.right_Main{
+    background-color: #2bb3b1;
+    padding: 30px 10px 10px 20px;
+    width: 292px;
+    height: 284px; 
+    position: relative;
+    bottom: 18px;
+    color: white;
+    font-size: 25px;
+
+}
+
+
+
+.left_Main{
+    background-color: #4abebd;
+    width: 315px;
+    height: 284px;
+    position: relative;
+    left: 321px;
+    bottom: 379px;
+    padding: 30px 10px 10px 20px;
+    color: white;
+
+}
+
+
+.btn button{
+    width: 190px;
+    height:40px;
+    position: relative;
+    top: 60px;
+    left: 28px;
+    background-color: #bfdf32;
+    color: white;
+    font-size: 19px;
+    border-radius: 5px;
+    border: none;
+}
+
+.right_Main .font_Number{
+    font-size: 39px;
+
+}
+
+.right_Main  .per{
+    font-size: 20px;
+    position: relative;
+    bottom: 8px;
+
+}
+
+.right_Main  .full{
+    font-size: 20px;
+    position: relative;
+    bottom: 8px;
+
+}
+
+
+.left_Main h4{
+    font-size: 33px;
+}
